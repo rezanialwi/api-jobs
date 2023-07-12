@@ -4,8 +4,6 @@
     * import mysql database resides in the database table
     * npm install
     * npm start
-    * php artisan migrate:fresh --seed
-    * php artisan serve
 
 ## You can test the API using a tool like Postman or cURL. Here are the API endpoints you can try:
     * composer install
